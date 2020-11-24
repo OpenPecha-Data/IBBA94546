@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22030
   title: ཤན་འདན་ནང་འཁྲུག་།
-  volume: ''
+  volume:
+    f087174f5c6d45b9a90a796380bb92d7:
+      image_group_id: I1KG17142
+      title: Volume 1 of shan 'dan nang 'khrug
+      volume_number: 1
+      total_pages: 170
   author: ''
+ebook_metadata:
+  title: ཤན་འདན་ནང་འཁྲུག་།
+  author: ''
+  sku: P007048
+  cover: cover.jpg
+  layers:
+  - pagination
