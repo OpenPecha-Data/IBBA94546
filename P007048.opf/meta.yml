@@ -1,15 +1,16 @@
-id: opecha:P007048
+id: P007048
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22030
   title: ཤན་འདན་ནང་འཁྲུག་།
-  volume:
+  author: ''
+  volumes:
     f087174f5c6d45b9a90a796380bb92d7:
       image_group_id: I1KG17142
       title: Volume 1 of shan 'dan nang 'khrug
       volume_number: 1
       total_pages: 170
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤན་འདན་ནང་འཁྲུག་།
   author: ''
