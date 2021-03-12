@@ -5,11 +5,12 @@ source_metadata:
   title: ཤན་འདན་ནང་འཁྲུག་།
   author: ''
   volumes:
-    696a285ba940425c87b3d0d858673b61:
+    f087174f5c6d45b9a90a796380bb92d7:
       image_group_id: I1KG17142
-      title: ''
+      title: Volume 1 of shan 'dan nang 'khrug
       volume_number: 1
       total_pages: 170
+      base_file: v001.txt
 ebook_metadata:
   title: ཤན་འདན་ནང་འཁྲུག་།
   author: ''
